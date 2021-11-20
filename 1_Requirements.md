@@ -1,5 +1,6 @@
 CANDI-DATE-POLL
 
+
      * Candi-date-poll is a restaurant which focuses on customer gladness.
      * The main agenda lies in the customer invoice been generated.
      * The invoice will be saved according to the customers review.
@@ -44,7 +45,12 @@ CANDI-DATE-POLL
  HIGH LEVEL REQUIREMENTS
  
        * Customer name and number printed.
-       * 
+       * Document to third party payers such as insurance companies and verifying data.
+       * Also need to store product and service information such as price, quantity and description in the billing system.
+       
+LOW LEVEL REQUIREMENTS
+
+      *
         
         
         

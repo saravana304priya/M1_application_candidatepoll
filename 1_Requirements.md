@@ -1,4 +1,6 @@
 CANDI-DATE-POLL
+    
+![resturant logo](https://user-images.githubusercontent.com/60978907/142733287-8ab34ccd-c860-43c4-8f58-dd3a6f39b313.jpg)
 
 
      * Candi-date-poll is a restaurant which focuses on customer gladness.
@@ -50,7 +52,7 @@ CANDI-DATE-POLL
        
 LOW LEVEL REQUIREMENTS
 
-      *
+      * Customer invoice to be saved.
         
         
         

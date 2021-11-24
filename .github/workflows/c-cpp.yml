@@ -9,15 +9,12 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: Windows-latest
 
     steps:
     - uses: actions/checkout@v2
-    - name: configure
-      run: ./configure
     - name: build
       run: gcc maincodecc.c -0 maincodecc.exe
     - name: run
       run: .\maincodecc.exe
-    - name: make distcheck
-      run: make distcheck
+    

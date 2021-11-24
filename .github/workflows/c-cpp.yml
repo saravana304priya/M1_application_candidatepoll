@@ -14,7 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: build
-      run: gcc maincodecc.c -0 maincodecc.exe
+      run: gcc sourcecode.c -0 sourcecode.exe
     - name: run
-      run: .\maincodecc.exe
+      run: .\sourcecode.exe
     

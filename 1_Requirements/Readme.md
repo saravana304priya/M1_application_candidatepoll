@@ -50,6 +50,10 @@ CANDI-DATE-POLL
        * Document to third party payers such as insurance companies and verifying data.
        * Also need to store product and service information such as price, quantity and description in the billing system.
        
+       
+![s](https://user-images.githubusercontent.com/60978907/143278093-db263132-22b6-45be-910b-63e0a4364485.jpg)
+
+       
 LOW LEVEL REQUIREMENTS
 
       * Customer invoice to be saved.

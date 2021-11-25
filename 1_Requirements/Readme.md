@@ -43,6 +43,38 @@ CANDI-DATE-POLL
         * Aims at reducing maunal work of generating professional looking.
         * It is designed to handle time and billing tracking as well as invoicing customers for services and products.
         
+  4W  &  1H      
+    What
+       Application that designed to be implemented in local Grocery store or shops.
+       It will helps user to generate invoices for cutomers and also helps in doing calculations.
+
+     Why
+      To avoid maunal calculations.
+      To have document of what the service provider is giving us.
+
+     Where
+        This application can be implemented in every service providing areas like retail etc.
+
+     How
+         It is one of the application where the services are collected from the user.
+         The provider provides him/her with the necessary things.
+         And a invoice is generated to document both the provider and the customer.
+        
+        
+  SWOT ANALYSIS
+  
+     Strengths
+      * Saves Time
+      * Automatic Calculations
+      * No chance of errors in calculations of inputs are right.
+      * Feature to add GST or give Discount.
+     Weaknesses
+      * Cannot came back, once forward to next step.
+    Opportunities
+       * Can be implemented in any type of store or shops.
+    Threats
+       * Other Similar Applications.
+        
         
  HIGH LEVEL REQUIREMENTS
  

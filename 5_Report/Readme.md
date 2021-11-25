@@ -47,3 +47,9 @@ STATE OF ART
     * For billing in retail shope and paying.
     * Aims at reducing maunal work of generating professional looking.
     * It is designed to handle time and billing tracking as well as invoicing customers for services and products.
+    
+    
+  OUTLOOK OF APPLICATION
+  
+  ![U](https://user-images.githubusercontent.com/60978907/143388585-97112ce8-a7e7-4ada-b20b-3b535b512adb.jpg)
+

@@ -1,6 +1,6 @@
-### REPORT ON HOW TO USE THIS APPLICATION
+###  REPORT ON HOW TO USE THIS APPLICATION
 
-      This application can be installed in your system and can be used to do all calculations in 
+    This application can be installed in your system and can be used to do all calculations in 
     *retail
     *service providers 
     *other resturants.

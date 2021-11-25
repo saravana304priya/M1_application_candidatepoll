@@ -1,5 +1,7 @@
 # M1_application_candidatepoll
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/363285b129484e8aad04562bbf4b3d64)](https://www.codacy.com/gh/saravana304priya/M1_application_candidatepoll/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=saravana304priya/M1_application_candidatepoll&amp;utm_campaign=Badge_Grade)
+
 A user application which is used to generate invoice/bill of the customers product delivery and make it userfriendly.
 This application can also be used in retail shops and resturants.
 

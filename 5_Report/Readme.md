@@ -10,7 +10,8 @@
     * Do calculations and generate invoice simultaneously.
     * Need to provide only customer name, number of items and name of the items provided.
    
-    
+ ![a](https://user-images.githubusercontent.com/60978907/143386872-5dee19e5-7566-4c81-a54c-5e87c2c0d767.jpg)
+   
     
     Steps done to evolve this product:
     

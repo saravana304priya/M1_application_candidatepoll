@@ -25,3 +25,25 @@
          make test
     6.Clean all executable files by following command :
         make clean
+
+
+FEATURES
+
+  * Invoice will be generated quickly.
+  * Ensure accurate information.
+  * Save customer template.
+  * Simplicity
+  * Support contact details.
+
+STATE OF ART
+
+    * Takes the help of system to do all the calculations of the exchange.
+    * Saves the content in system rather in papers.
+    * Used in retail business to run sommthly and efficiently, thereby reducing the operational costs.
+    * Work as a heartbeat of a retail business.
+    * Communication Service providers, media and entertainment.
+    * Step by step process of requesting payment from customers by issusing invoices.
+    * Time consuming process like invoice generation.
+    * For billing in retail shope and paying.
+    * Aims at reducing maunal work of generating professional looking.
+    * It is designed to handle time and billing tracking as well as invoicing customers for services and products.
